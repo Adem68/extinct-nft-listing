@@ -1,0 +1,453 @@
+
+{
+    "nftList": [
+        {
+            "name": "Acer undulatum",
+            "image": "assets/nft/NFT_of_the_Acer_undulatum_9301bf8e-f469-4518-b3ea-7a26b4814b21.png"
+          },
+          {
+            "name": "Aldrovanda vesiculosa",
+            "image": "assets/nft/NFT_of_the_Aldrovanda_vesiculosa_57a1f84a-f3f2-4d69-9fb9-6641d4ecb7d6.png"
+          },
+          {
+            "name": "Allium baytopiorum",
+            "image": "assets/nft/NFT_of_the_Allium_baytopiorum_1a36f0e7-f5a7-4d6c-a154-f2cc37c13d55.png"
+          },
+          {
+            "name": "Allium czelghauricum",
+            "image": "assets/nft/NFT_of_the_Allium_czelghauricum_fd999b59-1ec6-4f94-a088-e3f5b7ff4d73.png"
+          },
+          {
+            "name": "Allium noeanum",
+            "image": "assets/nft/NFT_of_the_Allium_noeanum_d53cafc2-b42f-4d24-bf41-84e7b5dc7121.png"
+          },
+          {
+            "name": "Allium peroninianum",
+            "image": "assets/nft/NFT_of_the_Allium_peroninianum_5ece7391-ed21-492e-9541-5e973635caef.png"
+          },
+          {
+            "name": "Allium pseudoalbidum",
+            "image": "assets/nft/NFT_of_the_Allium_pseudoalbidum_c3146199-71b6-411b-8fd3-b2b601aa1b65.png"
+          },
+          {
+            "name": "Alyssum artvinense",
+            "image": "assets/nft/NFT_of_the_Alyssum_artvinense_a8c69132-e0ad-4c5c-9c7e-fe769642a204.png"
+          },
+          {
+            "name": "Amblyopyrum muticum",
+            "image": "assets/nft/NFT_of_the_Amblyopyrum_muticum_fad09484-3440-42be-ad5e-2924057f7f06.png"
+          },
+          {
+            "name": "Angelica adzharica",
+            "image": "assets/nft/NFT_of_the_Angelica_adzharica_5356f779-463f-4ede-9f03-e6905175c907.png"
+          },
+          {
+            "name": "Asperula virgata",
+            "image": "assets/nft/NFT_of_the_Asperula_virgata_93efc35f-efca-43c4-8580-55a16f6224b8.png"
+          },
+          {
+            "name": "Astragalus acmophylloides",
+            "image": "assets/nft/NFT_of_the_Astragalus_acmophylloides_3cc39982-f4ed-4821-884d-e8129c1d1a08.png"
+          },
+          {
+            "name": "Astragalus eliasianus",
+            "image": "assets/nft/NFT_of_the_Astragalus_eliasianus_cffe6cad-0b1b-4c21-805b-33a1cde398c4.png"
+          },
+          {
+            "name": "Astragalus longivexillatus",
+            "image": "assets/nft/NFT_of_the_Astragalus_longivexillatus_e3649241-03a1-4579-af9e-f392ff598a59.png"
+          },
+          {
+            "name": "Astragalus nigrocalycinus",
+            "image": "assets/nft/NFT_of_the_Astragalus_nigrocalycinus_95f058db-952b-4707-8a24-298fff0f2b1a.png"
+          },
+          {
+            "name": "Astragalus olurensis",
+            "image": "assets/nft/NFT_of_the_Astragalus_olurensis_b33918bd-5b77-44f1-8856-c5be0d1f47c9.png"
+          },
+          {
+            "name": "Astragalus tatlii",
+            "image": "assets/nft/NFT_of_the_Astragalus_tatlii_a9328169-f6b0-43a8-9837-86b15c2ff6ff.png"
+          },
+          {
+            "name": "Astragalus trabzonicus",
+            "image": "assets/nft/NFT_of_the_Astragalus_trabzonicus_57189106-b59f-4e52-89fa-ec752dd44dd5.png"
+          },
+          {
+            "name": "Barbarea lutea",
+            "image": "assets/nft/NFT_of_the_Barbarea_lutea_c91c86a5-bb5e-4ccb-ba1c-fa5686af9399.png"
+          },
+          {
+            "name": "Bupleurum schistosum",
+            "image": "assets/nft/NFT_of_the_Bupleurum_schistosum_cbe4ef34-2108-49f3-b54d-4ea734bfcdf3.png"
+          },
+          {
+            "name": "Calamagrostis parsana",
+            "image": "assets/nft/NFT_of_the_Calamagrostis_parsana_af387a75-e79b-44d5-9b8c-4dbd038a8d9d.png"
+          },
+          {
+            "name": "Campanula aghrica",
+            "image": "assets/nft/NFT_of_the_Campanula_aghrica_6f54d7e9-cac1-45c1-b490-ce52e035ee95.png"
+          },
+          {
+            "name": "Campanula choruhensis",
+            "image": "assets/nft/NFT_of_the_Campanula_choruhensis_318e4d56-0573-4684-b912-29f341bdc601.png"
+          },
+          {
+            "name": "Campanula lazica",
+            "image": "assets/nft/NFT_of_the_Campanula_lazica_3e64cc46-654c-4fc9-8f1f-146b5439e252.png"
+          },
+          {
+            "name": "Campanula massalskyi",
+            "image": "assets/nft/NFT_of_the_Campanula_massalskyi_3bfff6b4-bf80-44c0-99b0-5ca9ef7b76ca.png"
+          },
+          {
+            "name": "Campanula seraglio",
+            "image": "assets/nft/NFT_of_the_Campanula_seraglio_b6c779d7-d490-4f04-b52c-d0a4c2ac05a0.png"
+          },
+          {
+            "name": "Campanula troegerae",
+            "image": "assets/nft/NFT_of_the_Campanula_troegerae_7051995b-90ce-40af-894d-102db4e0fd1f.png"
+          },
+          {
+            "name": "Centaurea demirizii",
+            "image": "assets/nft/NFT_of_the_Centaurea_demirizii_fbcc66d5-5e10-4957-b802-5045d89d10fa.png"
+          },
+          {
+            "name": "Centaurea drabifolioides",
+            "image": "assets/nft/NFT_of_the_Centaurea_drabifolioides_97f7bc08-2dad-46ff-bf58-bc7dd0440133.png"
+          },
+          {
+            "name": "Centaurea leptophylla",
+            "image": "assets/nft/NFT_of_the_Centaurea_leptophylla_d4bc9423-54bb-4193-8646-f1e0fcaf324f.png"
+          },
+          {
+            "name": "Centaurea rhizocalathium",
+            "image": "assets/nft/NFT_of_the_Centaurea_rhizocalathium_6aae0d7d-b72f-43ca-b8e3-3a52e95b990b.png"
+          },
+          {
+            "name": "Centaurea woronowii",
+            "image": "assets/nft/NFT_of_the_Centaurea_woronowii_8da53d53-ced3-4e9b-8cfa-6d23b49b58ef.png"
+          },
+          {
+            "name": "Cephalaria anatolica",
+            "image": "assets/nft/NFT_of_the_Cephalaria_anatolica_2b7f4aaa-bcd3-4741-b5bf-3c96dc6b60db.png"
+          },
+          {
+            "name": "Chaerophyllum karsianum",
+            "image": "assets/nft/NFT_of_the_Chaerophyllum_karsianum_1a9aad61-a969-4b4d-9ba7-b639de0d0614.png"
+          },
+          {
+            "name": "Chaerophyllum posofianum",
+            "image": "assets/nft/NFT_of_the_Chaerophyllum_posofianum_84639369-55af-447b-8f02-993746c068c9.png"
+          },
+          {
+            "name": "Cicer bijugum",
+            "image": "assets/nft/NFT_of_the_Cicer_bijugum_be79bd14-acef-4547-b418-cb7b98b812e3.png"
+          },
+          {
+            "name": "Cirsium davisianum",
+            "image": "assets/nft/NFT_of_the_Cirsium_davisianum_52a34cb8-3ee2-4653-aa1c-40309933fb6f.png"
+          },
+          {
+            "name": "Cirsium eliasianum",
+            "image": "assets/nft/NFT_of_the_Cirsium_eliasianum_88e3e43c-4741-4deb-8470-c3385615c6e7.png"
+          },
+          {
+            "name": "Colchicum leptanthum",
+            "image": "assets/nft/NFT_of_the_Colchicum_leptanthum_14b9a7d4-527c-471b-a912-5d57783c09cc.png"
+          },
+          {
+            "name": "Crataegus turcicus",
+            "image": "assets/nft/NFT_of_the_Crataegus_turcicus_89f79c02-0114-4a4f-893f-b0d5eb955ff3.png"
+          },
+          {
+            "name": "Crocus aerius",
+            "image": "assets/nft/NFT_of_the_Crocus_aerius_49d97a88-05a7-4b75-9d81-c2cca531d7d6.png"
+          },
+          {
+            "name": "Delphinium iris",
+            "image": "assets/nft/NFT_of_the_Delphinium_iris_5b22b34a-46de-4945-aaf9-b78e05a351a5.png"
+          },
+          {
+            "name": "Delphinium munzianum",
+            "image": "assets/nft/NFT_of_the_Delphinium_munzianum_c5b06e9e-6db7-4558-8be2-9f58276f66cd.png"
+          },
+          {
+            "name": "Draba narmanensis",
+            "image": "assets/nft/NFT_of_the_Draba_narmanensis_6b0ce360-fe0b-4b12-a559-a5b92c8aa119.png"
+          },
+          {
+            "name": "Echinops sintenisii",
+            "image": "assets/nft/NFT_of_the_Echinops_sintenisii_77cf5fb9-f804-46c1-a43d-6b0c5780bc4c.png"
+          },
+          {
+            "name": "Erodium hendrikii",
+            "image": "assets/nft/NFT_of_the_Erodium_hendrikii_a91788b4-0928-4dea-b5ff-cb9e8deb6721.png"
+          },
+          {
+            "name": "Erysimum deflexum",
+            "image": "assets/nft/NFT_of_the_Erysimum_deflexum_0691eac8-49b0-41b1-88b5-0afb474e96e3.png"
+          },
+          {
+            "name": "Erysimum leptocarpum",
+            "image": "assets/nft/NFT_of_the_Erysimum_leptocarpum_14e79b2e-cbea-4613-a428-23917ea11ce6.png"
+          },
+          {
+            "name": "Ferula mervynii",
+            "image": "assets/nft/NFT_of_the_Ferula_mervynii_7f703c63-cea4-4b6f-97ff-29002bcfb328.png"
+          },
+          {
+            "name": "Festuca pontica",
+            "image": "assets/nft/NFT_of_the_Festuca_pontica_9a591084-23f5-4995-a66a-7edd0098dc93.png"
+          },
+          {
+            "name": "Festuca xenophontis",
+            "image": "assets/nft/NFT_of_the_Festuca_xenophontis_330b5550-a933-4f15-b1b3-d4f314211e98.png"
+          },
+          {
+            "name": "Flueggea anatolica",
+            "image": "assets/nft/NFT_of_the_Flueggea_anatolica_b406369e-182d-499a-830a-9902b08579aa.png"
+          },
+          {
+            "name": "Gagea antakiensis",
+            "image": "assets/nft/NFT_of_the_Gagea_antakiensis_51e2a3ec-ea6a-4434-8ab3-464524a63144.png"
+          },
+          {
+            "name": "Galanthus trojanus",
+            "image": "assets/nft/NFT_of_the_Galanthus_trojanus_ee193930-0821-465a-85eb-48e72eb51071.png"
+          },
+          {
+            "name": "Helichrysum artvinense",
+            "image": "assets/nft/NFT_of_the_Helichrysum_artvinense_04110a66-63ea-446f-bbd8-0c39adba6e17.png"
+          },
+          {
+            "name": "Hypericum fissurale",
+            "image": "assets/nft/NFT_of_the_Hypericum_fissurale_9b20053f-7bf5-4c57-a313-3b75c09456cc.png"
+          },
+          {
+            "name": "Isoetes olympica",
+            "image": "assets/nft/NFT_of_the_Isoetes_olympica_8cfa4a08-696e-4030-a457-5224d4f42a96.png"
+          },
+          {
+            "name": "Jacobaea trapezuntina",
+            "image": "assets/nft/NFT_of_the_Jacobaea_trapezuntina_f5615555-1ae0-47b6-b51d-fb139c7b321d.png"
+          },
+          {
+            "name": "Lamium tschorochense",
+            "image": "assets/nft/NFT_of_the_Lamium_tschorochense_99407111-9cea-44aa-8412-853d9d2e3aa3.png"
+          },
+          {
+            "name": "Laserpitium affine",
+            "image": "assets/nft/NFT_of_the_Laserpitium_affine_d7ee4604-9a00-4804-86d5-dd735a469fcd.png"
+          },
+          {
+            "name": "Lathyrus armenus",
+            "image": "assets/nft/NFT_of_the_Lathyrus_armenus_c837997a-748d-4834-8de4-cdb1abb589f3.png"
+          },
+          {
+            "name": "Lathyrus belinensis",
+            "image": "assets/nft/NFT_of_the_Lathyrus_belinensis_fd2fde9e-ac80-4cfc-92df-b863bfeb2ad5.png"
+          },
+          {
+            "name": "Lathyrus cilicicus",
+            "image": "assets/nft/NFT_of_the_Lathyrus_cilicicus_f6f57d13-d958-490b-b93f-5738948762ce.png"
+          },
+          {
+            "name": "Lathyrus layardii",
+            "image": "assets/nft/NFT_of_the_Lathyrus_layardii_40407808-0127-4e84-b4b1-c760689ef905.png"
+          },
+          {
+            "name": "Lathyrus libani",
+            "image": "assets/nft/NFT_of_the_Lathyrus_libani_ab3371c9-b2bd-4e9f-b9ec-1f60447a451b.png"
+          },
+          {
+            "name": "Lathyrus phaselitanus",
+            "image": "assets/nft/NFT_of_the_Lathyrus_phaselitanus_b4936d8a-d3ad-48e0-8021-0f2e8d634da0.png"
+          },
+          {
+            "name": "Lathyrus tauricola",
+            "image": "assets/nft/NFT_of_the_Lathyrus_tauricola_88f95259-38f4-46af-9741-02d6f6ac3ea7.png"
+          },
+          {
+            "name": "Lathyrus trachycarpus",
+            "image": "assets/nft/NFT_of_the_Lathyrus_trachycarpus_3ef2eaca-bd18-4347-8cc9-2beaeed34016.png"
+          },
+          {
+            "name": "Lathyrus undulatus",
+            "image": "assets/nft/NFT_of_the_Lathyrus_undulatus_da201143-b878-44fe-ade8-dcc48ee5c054.png"
+          },
+          {
+            "name": "Lilium ciliatum",
+            "image": "assets/nft/NFT_of_the_Lilium_ciliatum_6c088172-d28e-4244-bf2a-9527f78290ac.png"
+          },
+          {
+            "name": "Liquidambar orientalis",
+            "image": "assets/nft/NFT_of_the_Liquidambar_orientalis_f172f263-5a46-4985-af52-c8a8a6c43610.png"
+          },
+          {
+            "name": "Lotus armeniacus",
+            "image": "assets/nft/NFT_of_the_Lotus_armeniacus_303b41f4-5463-406a-80ac-48e9cc32f630.png"
+          },
+          {
+            "name": "Nonea karsensis",
+            "image": "assets/nft/NFT_of_the_Nonea_karsensis_1e71f3e1-580f-472b-a337-283e696637b6.png"
+          },
+          {
+            "name": "Onosma arcuata",
+            "image": "assets/nft/NFT_of_the_Onosma_arcuata_cf1a8f9b-35ac-43c9-a14e-4adfa7fcf413.png"
+          },
+          {
+            "name": "Onosma nigricaulis",
+            "image": "assets/nft/NFT_of_the_Onosma_nigricaulis_fb77d7ed-bfc4-40d8-a5b0-37c980a0d94b.png"
+          },
+          {
+            "name": "Onosma obtusifolia",
+            "image": "assets/nft/NFT_of_the_Onosma_obtusifolia_095c8092-cf72-4f00-a969-054a481c80ce.png"
+          },
+          {
+            "name": "Pilularia minuta",
+            "image": "assets/nft/NFT_of_the_Pilularia_minuta_f49e11e3-8995-4aa5-9381-793caf00df1a.png"
+          },
+          {
+            "name": "Psephellus appendicigerus",
+            "image": "assets/nft/NFT_of_the_Psephellus_appendicigerus_9840662f-6e7b-4b72-8ab2-37b66d2fc6cf.png"
+          },
+          {
+            "name": "Psephellus gracillimus",
+            "image": "assets/nft/NFT_of_the_Psephellus_gracillimus_31e9f7fb-45be-49ca-9664-f62bf38934a4.png"
+          },
+          {
+            "name": "Psephellus pecho",
+            "image": "assets/nft/NFT_of_the_Psephellus_pecho_1532b0ea-4123-4e94-966a-3982b42925dd.png"
+          },
+          {
+            "name": "Psephellus straminicephalus",
+            "image": "assets/nft/NFT_of_the_Psephellus_straminicephalus_d1faecc0-9771-464d-b07f-d8bbd7c07d43.png"
+          },
+          {
+            "name": "Psephellus taochius",
+            "image": "assets/nft/NFT_of_the_Psephellus_taochius_a261b76b-bdf6-448c-9dba-8e9dac331284.png"
+          },
+          {
+            "name": "Quercus pontica",
+            "image": "assets/nft/NFT_of_the_Quercus_pontica_bebf776f-fa49-4cc5-a265-9338b9b3a0c5.png"
+          },
+          {
+            "name": "Ranunculus tempskyanus",
+            "image": "assets/nft/NFT_of_the_Ranunculus_tempskyanus_2985aff4-a404-43d3-8479-86f64aa305f6.png"
+          },
+          {
+            "name": "Ranunculus vermirrhizus",
+            "image": "assets/nft/NFT_of_the_Ranunculus_vermirrhizus_2d69edf8-b67a-4f68-a103-7c6ea5e91121.png"
+          },
+          {
+            "name": "Reseda balansae",
+            "image": "assets/nft/NFT_of_the_Reseda_balansae_36ec2ee7-efb2-4f2c-99ff-b903c5c3b7bb.png"
+          },
+          {
+            "name": "Rhodothamnus sessilifolius",
+            "image": "assets/nft/NFT_of_the_Rhodothamnus_sessilifolius_497df9bc-4cf1-4395-a382-c2979afdce9b.png"
+          },
+          {
+            "name": "Rumex bithynicus",
+            "image": "assets/nft/NFT_of_the_Rumex_bithynicus_d9929203-8053-42ed-b6fa-b0143df27068.png"
+          },
+          {
+            "name": "Saxifraga artvinensis",
+            "image": "assets/nft/NFT_of_the_Saxifraga_artvinensis_8466a26a-35a9-439d-ab77-9fde5fef8da8.png"
+          },
+          {
+            "name": "Scrophularia capillaris",
+            "image": "assets/nft/NFT_of_the_Scrophularia_capillaris_82d0ad47-f6e8-4a81-b82b-12ea4da7bb8b.png"
+          },
+          {
+            "name": "Scutellaria yildirimlii",
+            "image": "assets/nft/NFT_of_the_Scutellaria_yildirimlii_2a28bedc-26d5-4423-8990-024e045c75e0.png"
+          },
+          {
+            "name": "Sedum euxinum",
+            "image": "assets/nft/NFT_of_the_Sedum_euxinum_3ff6bc54-076f-41df-9130-fec8532a8b26.png"
+          },
+          {
+            "name": "Sideritis gulendamii",
+            "image": "assets/nft/NFT_of_the_Sideritis_gulendamii_9b283f26-227f-4094-bf7e-208f98f67fbb.png"
+          },
+          {
+            "name": "Silene ispirensis",
+            "image": "assets/nft/NFT_of_the_Silene_ispirensis_bc1f060d-ddb2-4912-b051-cc2dbd76af79.png"
+          },
+          {
+            "name": "Sonchus erzincanicus",
+            "image": "assets/nft/NFT_of_the_Sonchus_erzincanicus_2665afdf-0700-4785-9e51-1d8a2f604c51.png"
+          },
+          {
+            "name": "Sorbus roopiana",
+            "image": "assets/nft/NFT_of_the_Sorbus_roopiana_1bca73d6-c42f-4a30-b0ec-035fcd469c55.png"
+          },
+          {
+            "name": "Stachys bayburtensis",
+            "image": "assets/nft/NFT_of_the_Stachys_bayburtensis_77471d5b-e04c-48b0-8274-dd1e2d29ce8a.png"
+          },
+          {
+            "name": "Stachys choruhensis",
+            "image": "assets/nft/NFT_of_the_Stachys_choruhensis_7585504f-437a-49c8-a1d1-94f5b838a1ce.png"
+          },
+          {
+            "name": "Stachys sosnowskyi",
+            "image": "assets/nft/NFT_of_the_Stachys_sosnowskyi_f3e90f93-8271-46c9-9ccd-c3d89f747c18.png"
+          },
+          {
+            "name": "Symphytum savvalense",
+            "image": "assets/nft/NFT_of_the_Symphytum_savvalense_bad2d359-121c-4334-9d03-d01790237990.png"
+          },
+          {
+            "name": "Tanacetum oxystegium",
+            "image": "assets/nft/NFT_of_the_Tanacetum_oxystegium_e0c2c71a-c2ff-47e4-8c32-09fc383ca4b3.png"
+          },
+          {
+            "name": "Thermopsis turcica",
+            "image": "assets/nft/NFT_of_the_Thermopsis_turcica_75dd9acf-ac46-420d-9935-ac2c4b9158ea.png"
+          },
+          {
+            "name": "Tripleurospermum fissurale",
+            "image": "assets/nft/NFT_of_the_Tripleurospermum_fissurale_0f635065-e963-4042-90ac-a1ebc49083e0.png"
+          },
+          {
+            "name": "Tulipa gumusanica",
+            "image": "assets/nft/NFT_of_the_Tulipa_gumusanica_406bd680-8f88-42f6-957e-2ca8bfab3c06.png"
+          },
+          {
+            "name": "Verbascum decursivum",
+            "image": "assets/nft/NFT_of_the_Verbascum_decursivum_b5758ea7-b553-4c3e-8b7e-f10d97caa3f4.png"
+          },
+          {
+            "name": "Verbascum transcaucasicum",
+            "image": "assets/nft/NFT_of_the_Verbascum_transcaucasicum_1db53879-d6d7-4487-8520-1f94f5ec2a47.png"
+          },
+          {
+            "name": "Veronica allahuekberensis",
+            "image": "assets/nft/NFT_of_the_Veronica_allahuekberensis_a6544eed-8f30-403a-82b1-a9339124086e.png"
+          },
+          {
+            "name": "Vicia eristalioides",
+            "image": "assets/nft/NFT_of_the_Vicia_eristalioides_6bb75bf1-9c12-4cff-8aaa-aaaaeb1b820e.png"
+          },
+          {
+            "name": "Vicia eristalioides",
+            "image": "assets/nft/NFT_of_the_Vicia_eristalioides_f0df30bc-5415-4fb7-8647-a71199512f7e.png"
+          },
+          {
+            "name": "Vicia erzurumica",
+            "image": "assets/nft/NFT_of_the_Vicia_erzurumica_f51610d4-3ffa-4712-afc7-477f387b033f.png"
+          },
+          {
+            "name": "Vicia incisa",
+            "image": "assets/nft/NFT_of_the_Vicia_incisa_0b697029-cc3e-483a-9397-84102205a01e.png"
+          },
+          {
+            "name": "Vicia quadrijuga",
+            "image": "assets/nft/NFT_of_the_Vicia_quadrijuga_d1c2891f-f7d5-4ac5-9ccb-455c985a8e55.png"
+          }
+      ]
+}
