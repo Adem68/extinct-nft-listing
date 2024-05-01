@@ -28,7 +28,10 @@ import mockResponse from "../pages/api/listings.json"
 interface ListingItem {
   name: string
   image: string
-  description?: string
+  description?: {
+    en: string
+    tr: string
+  }
 }
 
 export default function Listing() {
@@ -69,7 +72,7 @@ export default function Listing() {
               {selectedItem?.name}
             </DialogTitle>
             <DialogDescription className="text-lg font-semibold">
-              {selectedItem?.description}
+              {selectedItem?.description?.en}
             </DialogDescription>
           </DialogHeader>
           <DialogTitle>
@@ -100,43 +103,49 @@ export default function Listing() {
       </h4>
       <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-4">
         {mockResponse.nftList.map((item, index) => (
-            <Card key={index}>
-                <CardHeader>
-                    <Image
-                    src={item.image}
-                    width={400}
-                    height={400}
-                    alt={""}
-                    quality={100}
-                    className="rounded-xl"
-                    style={
-                        {
-                        width: "100%",
-                        height: "auto",
-                        objectFit: "cover",
-                        WebkitUserDrag: "none",
-                        } as React.CSSProperties
-                    }
-                    priority
-                    />
-                    <br />
-                </CardHeader>
-                <CardContent>
-                    <CardTitle className="whitespace-nowrap">{item.name}</CardTitle>
-                </CardContent>
-                <CardFooter>
-                    <Button
-                    style={{ width: "100%", height: "48px", alignContent: "center" }}
-                    className="rounded-lg bg-blue-800 hover:bg-blue-500 dark:text-white dark:hover:bg-blue-200 dark:hover:text-black"
-                    onClick={() => {
-                        setSelectedItem(item)
-                        setOpenModel(true)
-                    }}
-                    >
-                    View
-                    </Button>
-                </CardFooter>
-            </Card>
+          <Card
+            key={index}
+            onClick={() => {
+              setSelectedItem(item)
+              setOpenModel(true)
+            }}
+          >
+            <CardHeader>
+              <Image
+                src={item.image}
+                width={400}
+                height={400}
+                alt={""}
+                quality={100}
+                className="rounded-xl"
+                style={
+                  {
+                    width: "100%",
+                    height: "auto",
+                    objectFit: "cover",
+                    WebkitUserDrag: "none",
+                  } as React.CSSProperties
+                }
+                priority
+              />
+              <br />
+            </CardHeader>
+            <CardContent>
+              <CardTitle className="whitespace-nowrap">{item.name}</CardTitle>
+            </CardContent>
+            <CardFooter>
+              <Button
+                style={{
+                  width: "100%",
+                  height: "48px",
+                  alignContent: "center",
+                }}
+                className="rounded-lg bg-blue-800 hover:bg-blue-500 dark:text-white dark:hover:bg-blue-200 dark:hover:text-black"
+              >
+                View
+              </Button>
+            </CardFooter>
+          </Card>
         ))}
       </div>
     </div>
@@ -146,7 +155,7 @@ export default function Listing() {
         Collection
       </h4>
       <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-4">
-        {Array(100)
+        {Array(50)
           .fill(0)
           .map((value, index) => (
             <Card key={index}>
