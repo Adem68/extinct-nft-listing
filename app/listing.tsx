@@ -23,7 +23,7 @@ import {
 } from "@/components/ui/dialog"
 import { Skeleton } from "@/components/ui/skeleton"
 
-import mockResponse from "../pages/api/listings.json"
+import listingResponse from "../pages/api/listings.json"
 
 interface ListingItem {
   name: string
@@ -32,6 +32,7 @@ interface ListingItem {
     en: string
     tr: string
   }
+  index: number
 }
 
 export default function Listing() {
@@ -99,10 +100,10 @@ export default function Listing() {
       </Dialog>
       <div className="h-[100px]" />
       <h4 className="mb-12 text-4xl font-extrabold leading-none tracking-tight text-gray-900 dark:text-white md:text-5xl lg:text-4xl">
-        Collection ({mockResponse.nftList.length})
+        Collection ({listingResponse.nftList.length})
       </h4>
       <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-4">
-        {mockResponse.nftList.map((item, index) => (
+        {listingResponse.nftList.map((item, index) => (
           <Card
             key={index}
             onClick={() => {
@@ -118,6 +119,7 @@ export default function Listing() {
                 alt={""}
                 quality={100}
                 className="rounded-xl"
+                loading="lazy"
                 style={
                   {
                     width: "100%",
@@ -126,7 +128,6 @@ export default function Listing() {
                     WebkitUserDrag: "none",
                   } as React.CSSProperties
                 }
-                priority
               />
               <br />
             </CardHeader>
