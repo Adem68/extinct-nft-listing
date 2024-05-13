@@ -49,7 +49,7 @@ export default function Listing() {
   return isLoaded ? (
     <div id="collection">
       <Dialog open={openModal} onOpenChange={setOpenModel}>
-        <DialogContent>
+        <DialogContent className={"max-w-screen max-h-screen overflow-y-scroll lg:max-h-[100vh] lg:max-w-[50vh]"}>
           <DialogHeader>
             <Image
               src={selectedItem?.image ?? ""}
@@ -84,18 +84,25 @@ export default function Listing() {
               OpenSea
             </Button>
           </DialogTitle>
-          {/* <DialogFooter>
-                        <DialogClose asChild>
-                            <div className="mt-8 flex justify-center" style={{ width: '100%' }}>
-                                <Button
-                                    style={{ width: '50%', height: "48px", alignContent: 'center' }}
-                                    className="rounded-lg bg-gray-600 dark:text-white dark:hover:bg-gray-200 dark:hover:text-black"
-                                >
-                                    Close
-                                </Button>
-                            </div>
-                        </DialogClose>
-                    </DialogFooter> */}
+          <DialogFooter>
+            <DialogClose asChild>
+              <div
+                className="mt-8 flex justify-center"
+                style={{ width: "100%" }}
+              >
+                <Button
+                  style={{
+                    width: "50%",
+                    height: "48px",
+                    alignContent: "center",
+                  }}
+                  className="rounded-lg bg-gray-600 dark:text-white dark:hover:bg-gray-200 dark:hover:text-black"
+                >
+                  Close
+                </Button>
+              </div>
+            </DialogClose>
+          </DialogFooter>
         </DialogContent>
       </Dialog>
       <div className="h-[100px]" />
