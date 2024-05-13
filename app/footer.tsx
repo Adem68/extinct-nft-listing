@@ -10,12 +10,12 @@ export default function Footer() {
                     </a>
                     <p className="my-6 text-gray-500 dark:text-gray-400">This project was designed to create an NFT of Extinct and Endangered Plants and to raise awareness of the importance of preserving our planet&apos;s biodiversity.</p>
                     <ul className="mb-6 flex flex-wrap items-center justify-center text-gray-900 dark:text-white">
-                        <li>
+                        {/* <li>
                             <a href="#" className="mr-4 hover:underline md:mr-6 ">About</a>
                         </li>
                         <li>
                             <a href="#" className="mr-4 hover:underline md:mr-6">Contact</a>
-                        </li>
+                        </li> */}
                     </ul>
                     <span className="text-sm text-gray-500 dark:text-gray-400 sm:text-center">© 2022 - {new Date().getFullYear()} <a href="#" className="hover:underline">{siteConfig.name}</a>. All Rights Reserved.</span>
                 </div>
