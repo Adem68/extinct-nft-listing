@@ -150,7 +150,7 @@ export default function Listing() {
                 }}
                 className="rounded-lg bg-blue-800 hover:bg-blue-500 dark:text-white dark:hover:bg-blue-200 dark:hover:text-black"
               >
-                View
+                Show Detail
               </Button>
             </CardFooter>
           </Card>
