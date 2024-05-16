@@ -23,33 +23,47 @@ import {
 } from "@/components/ui/dialog"
 import { Skeleton } from "@/components/ui/skeleton"
 
-import listingResponse from "../pages/api/listings.json"
-
-interface ListingItem {
+interface NFTItem {
   name: string
   image: string
   description?: {
     en: string
     tr: string
   }
-  index: number
+  opensea_url: string
 }
 
 export default function Listing() {
   const [isLoaded, setIsLoaded] = React.useState(false)
   const [openModal, setOpenModel] = React.useState(false)
-  const [selectedItem, setSelectedItem] = React.useState<ListingItem>()
+  const [selectedItem, setSelectedItem] = React.useState<NFTItem>()
+  const [listingResponse, setListingResponse] = React.useState({
+    nfts: [] as NFTItem[],
+  })
+
+  const handleFetchNFTList = async () => {
+    const response = await fetch("/api/nftList")
+    const data = await response.json()
+    data.nfts.sort((a: NFTItem, b: NFTItem) => {
+      return a.name.localeCompare(b.name)
+    })
+    console.log(data)
+    setListingResponse(data)
+    setIsLoaded(true)
+  }
 
   React.useEffect(() => {
-    setTimeout(() => {
-      setIsLoaded(true)
-    }, 500)
+    handleFetchNFTList()
   }, [])
 
   return isLoaded ? (
     <div id="collection">
       <Dialog open={openModal} onOpenChange={setOpenModel}>
-        <DialogContent className={"max-w-screen max-h-screen overflow-y-scroll lg:max-h-[100vh] lg:max-w-[50vh]"}>
+        <DialogContent
+          className={
+            "max-w-screen max-h-screen overflow-y-scroll lg:max-h-[100vh] lg:max-w-[50vh]"
+          }
+        >
           <DialogHeader>
             <Image
               src={selectedItem?.image ?? ""}
@@ -72,24 +86,32 @@ export default function Listing() {
             <DialogTitle className="text-2xl font-semibold">
               {selectedItem?.name}
             </DialogTitle>
-            <DialogDescription className="text-lg font-semibold">
-              {selectedItem?.description?.en}
+            <DialogDescription className="text-sm font-semibold">
+              {selectedItem?.description?.en} <br /> <br />{" "}
+              {selectedItem?.description?.tr}
             </DialogDescription>
           </DialogHeader>
           <DialogTitle>
             <Button
               style={{ width: "100%", height: "48px", alignContent: "center" }}
               className="rounded-lg bg-blue-800 hover:bg-blue-500 dark:text-white dark:hover:bg-blue-200 dark:hover:text-black"
+              onClick={() => {
+                window.open(selectedItem?.opensea_url)
+              }}
             >
-              OpenSea
+              <a
+                href={selectedItem?.opensea_url}
+                target="_blank"
+                rel="noreferrer"
+                style={{ width: "100%", height: "48px", alignContent: "center" }}
+              >
+                OpenSea
+              </a>
             </Button>
           </DialogTitle>
           <DialogFooter>
             <DialogClose asChild>
-              <div
-                className="mt-8 flex justify-center"
-                style={{ width: "100%" }}
-              >
+              <div className="flex justify-center" style={{ width: "100%" }}>
                 <Button
                   style={{
                     width: "50%",
@@ -107,10 +129,10 @@ export default function Listing() {
       </Dialog>
       <div className="h-[100px]" />
       <h4 className="mb-12 text-4xl font-extrabold leading-none tracking-tight text-gray-900 dark:text-white md:text-5xl lg:text-4xl">
-        Collection ({listingResponse.nftList.length})
+        Collection ({listingResponse.nfts.length})
       </h4>
       <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-4">
-        {listingResponse.nftList.map((item, index) => (
+        {listingResponse.nfts.map((item, index) => (
           <Card
             key={index}
             onClick={() => {

@@ -1,5 +1,5 @@
 {
-  "nftList":[
+  "nfts":[
      {
         "name":"Allium baytopiorum",
         "image":"/assets/nft/NFT_of_the_Allium_baytopiorum_3616a49a-e602-42df-a2e9-387d85573a51.png",
@@ -7,7 +7,8 @@
         "description":{
            "en":"Allium baytopiorum, or Baytop's onion, is a species of onion that is endemic to Kars Province in Turkey. It is found in montane steppe at about 1,200m elevation. The species was named in honor of Turkish botanist Asuman Baytop.",
            "tr":"Allium baytopiorum veya Baytop so\u011fan\u0131, T\u00fcrkiye'de Kars iline endemik olan bir so\u011fan t\u00fcr\u00fcd\u00fcr. Da\u011f bozk\u0131rlar\u0131nda yakla\u015f\u0131k 1.200 m y\u00fckseklikte bulunur. T\u00fcre T\u00fcrk botanik\u00e7i Asuman Baytop'un an\u0131s\u0131na isim verilmi\u015ftir."
-        }
+        },
+        "opensea_url": ""
      },
      {
         "name":"Allium czelghauricum",
@@ -148,18 +149,13 @@
      },
      {
         "name":"Campanula massalskyi",
-        "image":"/assets/nft/NFT_of_the_Campanula_massalskyi_cf4c0aef-1bf0-4823-879b-a7ee6be41035.png",
-        "index":23
-     },
-     {
-        "name":"Campanula massalskyi",
         "image":"/assets/nft/NFT_of_the_Campanula_massalskyi_b6ee1e4b-e939-4451-8439-7bfb8b49bdc8.png",
-        "index":24
+        "index":23
      },
      {
         "name":"Campanula seraglio",
         "image":"/assets/nft/NFT_of_the_Campanula_seraglio_white_coloured_flower_df70d405-a90d-4f5e-b9fa-30736edb60f5.png",
-        "index":25,
+        "index":24,
         "description":{
            "en":"Campanula seraglio, known as the Serail bellflower, is a species of flowering plant in the family Campanulaceae. It is native to northeastern Turkey.",
            "tr":"Serail \u00e7an \u00e7i\u00e7e\u011fi olarak bilinen Campanula seraglio, Campanulaceae familyas\u0131na ait bir \u00e7i\u00e7ekli bitki t\u00fcr\u00fcd\u00fcr. Anavatan\u0131 T\u00fcrkiye'nin kuzeydo\u011fusundad\u0131r."
@@ -168,7 +164,7 @@
      {
         "name":"Campanula troegerae",
         "image":"/assets/nft/NFT_of_the_Campanula_troegerae_white_flower_35173098-bb42-443d-87b4-70faaa186226.png",
-        "index":26,
+        "index":25,
         "description":{
            "en":"Campanula troegerae is a species of flowering plant in the bellflower family Campanulaceae. It is native to north-eastern Turkey. It can be found in the provinces of Artvin and Erzurum.",
            "tr":"Campanula troegerae, \u00e7an \u00e7i\u00e7e\u011fi familyas\u0131ndan Campanulaceae'ye ait bir \u00e7i\u00e7ekli bitki t\u00fcr\u00fcd\u00fcr. Anavatan\u0131 T\u00fcrkiye'nin kuzeydo\u011fusudur. Artvin ve Erzurum illerinde bulunmaktad\u0131r."
@@ -177,7 +173,7 @@
      {
         "name":"Centaurea demirizii",
         "image":"/assets/nft/NFT_of_the_Centaurea_demirizii_c7ddfd4c-a8ec-4f01-82a6-47394e908c29.png",
-        "index":27,
+        "index":26,
         "description":{
            "en":"Centaurea demirizii, or  Demiriz's centaury, is a herbaceous plant, a member of the family Asteraceae. \n",
            "tr":"Centaurea demirizii veya Demiriz kantaronu, Asteraceae familyas\u0131na ait otsu bir bitkidir."
@@ -186,7 +182,7 @@
      {
         "name":"Centaurea drabifolioides",
         "image":"/assets/nft/NFT_of_the_Centaurea_drabifolioides_1bcb9be6-1fc2-401a-aeeb-74ab609373d7.png",
-        "index":28,
+        "index":27,
         "description":{
            "en":"Centaurea drabifolioides, the whitlow-grass-leaved centaury, is a species of flowering plant in the  Asteraceae family. \n",
            "tr":"Centaurea drabifolioides, beyaz-\u00e7imen yaprakl\u0131 kantaron, Asteraceae familyas\u0131ndaki \u00e7i\u00e7ekli bir bitki t\u00fcr\u00fcd\u00fcr."
@@ -195,7 +191,7 @@
      {
         "name":"Centaurea leptophylla",
         "image":"/assets/nft/NFT_of_the_Centaurea_leptophylla_08dc01d6-8174-430b-9b91-ccfb7757695c.png",
-        "index":29,
+        "index":28,
         "description":{
            "en":"Centaurea leptophylla, the thin-leaved centaury, is a flowering plant in the family Asteraceae. The IUCN has classified the species as critically endangered. It is native to Turkey. \n",
            "tr":"Centaurea leptophylla, ince yaprakl\u0131 kantaron, Asteraceae familyas\u0131na ait \u00e7i\u00e7ekli bir bitkidir. IUCN, t\u00fcrleri kritik tehlike alt\u0131nda olarak s\u0131n\u0131fland\u0131rm\u0131\u015ft\u0131r. Anavatan\u0131 T\u00fcrkiye'dir."
@@ -204,17 +200,17 @@
      {
         "name":"Centaurea rhizocalathium",
         "image":"/assets/nft/NFT_of_the_Centaurea_rhizocalathium_f22d6290-74a2-4ac9-a065-57a763bc2e87.png",
-        "index":30
+        "index":29
      },
      {
         "name":"Centaurea woronowii",
         "image":"/assets/nft/NFT_of_the_Centaurea_woronowii_6d0a5875-706a-4c30-85f2-21bf0b1fe828.png",
-        "index":31
+        "index":30
      },
      {
         "name":"Cephalaria anatolica",
         "image":"/assets/nft/NFT_of_the_Cephalaria_anatolica_9b6ec89c-b915-4e46-a706-9e1a1d881a45.png",
-        "index":32,
+        "index":31,
         "description":{
            "en":"Cephalaria anatolica, is a herbaceous plant, native to elevations of 1000 meters height.",
            "tr":"Cephalaria anatolica, 1000 metre y\u00fcksekli\u011fe \u00f6zg\u00fc otsu bir bitkidir."
@@ -223,42 +219,42 @@
      {
         "name":"Chaerophyllum karsianum",
         "image":"/assets/nft/NFT_of_the_Chaerophyllum_karsianum_85a8373d-e939-4c36-81ac-116476d7c707.png",
-        "index":33
+        "index":32
      },
      {
         "name":"Chaerophyllum posofianum",
         "image":"/assets/nft/NFT_of_the_Chaerophyllum_posofianum_7005957c-d72c-4483-b416-dd23ab6dc159.png",
-        "index":34
+        "index":33
      },
      {
         "name":"Cicer bijugum",
         "image":"/assets/nft/NFT_of_the_Cicer_bijugum_like_a_chickpea_branch_9f9eefd9-2b91-4335-81af-6e10c0903267.png",
-        "index":35
+        "index":34
      },
      {
         "name":"Cirsium davisianum",
         "image":"/assets/nft/NFT_of_the_Cirsium_davisianum_8dc04ae1-b949-4e04-b43f-c9e135f8ab25.png",
-        "index":36
+        "index":35
      },
      {
         "name":"Cirsium eliasianum",
         "image":"/assets/nft/NFT_of_the_Cirsium_eliasianum_d8997bf8-20be-4909-87a7-2d8ca0119fdf.png",
-        "index":37
+        "index":36
      },
      {
         "name":"Colchicum leptanthum",
         "image":"/assets/nft/NFT_of_the_Colchicum_leptanthum_c090821d-7061-407f-97c3-868898bac0dc.png",
-        "index":38
+        "index":37
      },
      {
         "name":"Crataegus turcicus",
         "image":"/assets/nft/NFT_of_the_Crataegus_turcicus_d370a734-557c-468d-8eae-21396b69256f.png",
-        "index":39
+        "index":38
      },
      {
         "name":"Crocus aerius",
         "image":"/assets/nft/NFT_of_the_Crocus_aerius_dd0bd45c-328a-4005-a865-39f1b8fdc1a2.png",
-        "index":40,
+        "index":39,
         "description":{
            "en":"Crocus aerius  is a species of flowering plant in the genus Crocus of the family Iridaceae. It is a cormous perennial native to Turkey.Commonly found in the Pontus Mountains growing in grassy areas and those with a lot of stones at an elevation of 2000 meters, flowering occurs in May.The glaucous leaves are curved and more firm than typical Crocus foliage.",
            "tr":"Crocus aerius, Iridaceae familyas\u0131n\u0131n Crocus cinsindeki \u00e7i\u00e7ekli bir bitki t\u00fcr\u00fcd\u00fcr. T\u00fcrkiye'ye \u00f6zg\u00fc \u00e7ok y\u0131ll\u0131k bir bitkidir.Yayg\u0131n olarak Pontus Da\u011flar\u0131'n\u0131n 2000 metre y\u00fckseklikteki \u00e7imenlik ve ta\u015fl\u0131 alanlar\u0131nda yeti\u015fen bitkinin \u00e7i\u00e7eklenmesi may\u0131s ay\u0131nda ger\u00e7ekle\u015fir.Gloucous yapraklar\u0131 kavislidir ve tipik Crocus yapraklar\u0131ndan daha sa\u011flamd\u0131r."
@@ -267,7 +263,7 @@
      {
         "name":"Delphinium iris",
         "image":"/assets/nft/NFT_of_the_Delphinium_iris_215ea957-9929-4074-9867-d191cf1329c0.png",
-        "index":41,
+        "index":40,
         "description":{
            "en":"Delphinium iris is a species of flowering plant within the genus Delphinium and the family Ranunculaceae.",
            "tr":"Delphinium iris, Delphinium cinsi ve Ranunculaceae familyas\u0131ndaki \u00e7i\u00e7ekli bir bitki t\u00fcr\u00fcd\u00fcr."
@@ -276,22 +272,22 @@
      {
         "name":"Delphinium munzianum",
         "image":"/assets/nft/NFT_of_the_Delphinium_munzianum_b5768e9a-e1d6-4544-b3f3-51859ff01356.png",
-        "index":42
+        "index":41
      },
      {
         "name":"Draba narmanensis",
         "image":"/assets/nft/NFT_of_the_Draba_narmanensis_02b50fe9-c68b-44b7-aaad-5cc81d5c5e67.png",
-        "index":43
+        "index":42
      },
      {
         "name":"Echinops sintenisii",
         "image":"/assets/nft/NFT_of_the_Echinops_sintenisii_f6456480-9562-4756-a99b-ccef7aa6ca8e.png",
-        "index":44
+        "index":43
      },
      {
         "name":"Erodium hendrikii",
         "image":"/assets/nft/NFT_of_the_Erodium_hendrikii_7941a714-a291-40ed-96a3-350aee106e90.png",
-        "index":45,
+        "index":44,
         "description":{
            "en":"Erodium hendrikii, or heron's bill, is a plant in the Geraniaceae family. It is critically endangered.",
            "tr":"Erodium hendrikii veya bal\u0131k\u00e7\u0131l gagas\u0131, Geraniaceae familyas\u0131ndan bir bitkidir. Kritik tehlike alt\u0131nda."
@@ -300,7 +296,7 @@
      {
         "name":"Erysimum deflexum",
         "image":"/assets/nft/NFT_of_the_Erysimum_deflexum_ffaad633-0813-4f99-a5fe-06ebcd3d8bcb.png",
-        "index":46,
+        "index":45,
         "description":{
            "en":"Erysimum deflexum, the  bent treacle mustard, is a herbaceous plant, a member of the family Brassicaceae. \n",
            "tr":"Erysimum deflexum, b\u00fck\u00fclm\u00fc\u015f \u015feker pekmezi hardal\u0131, Brassicaceae familyas\u0131n\u0131n bir \u00fcyesi olan otsu bir bitkidir."
@@ -309,27 +305,27 @@
      {
         "name":"Erysimum leptocarpum",
         "image":"/assets/nft/NFT_of_the_Erysimum_leptocarpum_422cc6be-b003-4084-8880-336132ea98b9.png",
-        "index":47
+        "index":46
      },
      {
         "name":"Ferula mervynii",
         "image":"/assets/nft/NFT_of_the_Ferula_mervynii_1b0660bb-155d-4a72-a7a6-3649e1b93669.png",
-        "index":48
+        "index":47
      },
      {
         "name":"Festuca pontica",
         "image":"/assets/nft/NFT_of_the_Festuca_pontica_29e22665-b251-4208-b37b-c66da0ba53c8.png",
-        "index":49
+        "index":48
      },
      {
         "name":"Festuca xenophontis",
         "image":"/assets/nft/NFT_of_the_Festuca_xenophontis_95bad3b7-2c56-438d-b88e-ca665daf6dcb.png",
-        "index":50
+        "index":49
      },
      {
         "name":"Flueggea anatolica",
         "image":"/assets/nft/NFT_of_the_Flueggea_anatolica_f2c6285c-f186-412d-a0f9-97a36a17265a.png",
-        "index":51,
+        "index":50,
         "description":{
            "en":"Flueggea anatolica is a species of plant in the family Phyllanthaceae. It is endemic to Turkey.",
            "tr":"Flueggea anatolica, Phyllanthaceae familyas\u0131na ait bir bitki t\u00fcr\u00fcd\u00fcr. T\u00fcrkiye'ye endemiktir."
@@ -338,7 +334,7 @@
      {
         "name":"Gagea antakiensis",
         "image":"/assets/nft/NFT_of_the_Gagea_antakiensis_21ca8867-f400-467f-9c20-3d7993eaa423.png",
-        "index":52,
+        "index":51,
         "description":{
            "en":"Gagea antakiensis, commonly known as the Antakya gagea, is a flowering plant in the family Liliaceae. It is endemic to Turkey. It is classified as critically endangered by the International Union for Conservation of Nature.",
            "tr":"Antakya gagea olarak bilinen Gagea antakiensis, Liliaceae familyas\u0131na ait \u00e7i\u00e7ekli bir bitkidir. T\u00fcrkiye'ye endemiktir. Uluslararas\u0131 Do\u011fay\u0131 Koruma Birli\u011fi taraf\u0131ndan kritik tehlike alt\u0131nda olarak s\u0131n\u0131fland\u0131r\u0131lm\u0131\u015ft\u0131r."
@@ -347,12 +343,12 @@
      {
         "name":"Galanthus trojanus",
         "image":"/assets/nft/NFT_of_the_Galanthus_trojanus_8b8e567d-d9c0-4257-9dc1-fa3ec93292d6.png",
-        "index":53
+        "index":52
      },
      {
         "name":"Helichrysum artvinense",
         "image":"/assets/nft/NFT_of_the_Helichrysum_artvinense_0d69a4f6-0368-41e5-a960-42d477c110b3.png",
-        "index":54,
+        "index":53,
         "description":{
            "en":"Helichrysum artvinense, the Artvinian everlasting, is a herbaceous plant, a member of the family Asteraceae.",
            "tr":"Artvinli sonsuz bitki olan Helichrysum artvinense, Asteraceae familyas\u0131na ait otsu bir bitkidir."
@@ -361,7 +357,7 @@
      {
         "name":"Hypericum fissurale",
         "image":"/assets/nft/NFT_of_the_Hypericum_fissurale_bbeddab6-fc30-4542-b570-91bbc5324911.png",
-        "index":55,
+        "index":54,
         "description":{
            "en":"Hypericum fissurale, known as cracked St. John's wort, is a flowering plant in the St. Johns's wort family (Hypericaceae) endemic to northeastern Turkey. It is considered critically endangered on the IUCN Red List due to its very limited distribution and declining population. It was first formally named by Jurij Nikolaewitch Woronow in 1912. It is a small perennial herb in the section Hypericum sect. Taeniocarpium, reaching around 22\u00a0cm (8.7\u00a0in) in height. Like most Hypericum species, it has flowers with five yellow petals and numerous stamens. Hypericum fissurale is closely related to Hypericum armenum.\n",
            "tr":"K\u0131r\u0131k sar\u0131 kantaron olarak bilinen Hypericum fissurale, sar\u0131 kantaron (Hypericaceae) familyas\u0131ndan, T\u00fcrkiye'nin kuzeydo\u011fusunda endemik olan \u00e7i\u00e7ekli bir bitkidir. \u00c7ok s\u0131n\u0131rl\u0131 da\u011f\u0131l\u0131m\u0131 ve azalan n\u00fcfusu nedeniyle IUCN K\u0131rm\u0131z\u0131 Listesinde kritik tehlike alt\u0131nda say\u0131l\u0131yor. \u0130lk kez 1912 y\u0131l\u0131nda Jurij Nikolaewitch Woronow taraf\u0131ndan resmi olarak adland\u0131r\u0131lm\u0131\u015ft\u0131r. Hypericum tarikat\u0131na ait \u00e7ok y\u0131ll\u0131k k\u00fc\u00e7\u00fck bir bitkidir. Taeniocarpium'un y\u00fcksekli\u011fi yakla\u015f\u0131k 22 cm'ye (8,7 in\u00e7) ula\u015f\u0131r. \u00c7o\u011fu Hypericum t\u00fcr\u00fc gibi, be\u015f sar\u0131 yaprakl\u0131 ve \u00e7ok say\u0131da stamenli \u00e7i\u00e7ekleri vard\u0131r. Hypericum fissurale, Hypericum armenum ile yak\u0131ndan ili\u015fkilidir.\n"
@@ -370,7 +366,7 @@
      {
         "name":"Isoetes olympica",
         "image":"/assets/nft/NFT_of_the_Isoetes_olympica_4034765e-5bf6-451f-b8b0-ed83b525d99f.png",
-        "index":56,
+        "index":55,
         "description":{
            "en":"Isoetes olympica, the Olympic quillwort, is a lycophyte in the family Isoetaceae. The IUCN has classified the species as critically endangered. It was named by Alexander Braun in 1867.  \n",
            "tr":"Olimpiyat t\u00fcy otu olan Isoetes olympica, Isoetaceae familyas\u0131ndan bir likofittir. IUCN, t\u00fcrleri kritik tehlike alt\u0131nda olarak s\u0131n\u0131fland\u0131rm\u0131\u015ft\u0131r. 1867 y\u0131l\u0131nda Alexander Braun taraf\u0131ndan isimlendirilmi\u015ftir."
@@ -379,7 +375,7 @@
      {
         "name":"Jacobaea trapezuntina",
         "image":"/assets/nft/NFT_of_the_Jacobaea_trapezuntina_4c30ea82-a383-4fca-abe7-f1d35c5bcf8a.png",
-        "index":57,
+        "index":56,
         "description":{
            "en":"Jacobaea trapezuntina, the Trapezuntian groundsel, is a herbaceous plant, a member of the family Asteraceae.",
            "tr":"Trapezuntian yer otu Jacobaea trapezuntina, Asteraceae familyas\u0131n\u0131n bir \u00fcyesi olan otsu bir bitkidir."
@@ -388,22 +384,22 @@
      {
         "name":"Lamium tschorochense",
         "image":"/assets/nft/NFT_of_the_Lamium_tschorochense_827f49ef-2b88-4748-9742-3b065c274bb2.png",
-        "index":58
+        "index":57
      },
      {
         "name":"Laserpitium affine",
         "image":"/assets/nft/NFT_of_the_Laserpitium_affine_flower_d93aa3ab-7c68-4ed7-b8b0-e9f4f4d42373.png",
-        "index":59
+        "index":58
      },
      {
         "name":"Lathyrus armenus",
         "image":"/assets/nft/NFT_of_the_Lathyrus_armenus_362388df-6181-49e7-9040-0cec0ca26026.png",
-        "index":60
+        "index":59
      },
      {
         "name":"Lathyrus belinensis",
         "image":"/assets/nft/NFT_of_the_Lathyrus_belinensis_3fdd143a-a567-47fe-b2c9-a96436836ea5.png",
-        "index":61,
+        "index":60,
         "description":{
            "en":"Lathyrus belinensis, also known as the Belin pea  is a flowering plant species in the genus Lathyrus under the family Fabaceae. The species was discovered in Turkey by botanists Nigel Maxted and David John Goyder and was first described in 1988. The species is a highly localized endemic found only in the Turkish province of Antalya. L. belinensis was listed among the top one hundred most endangered species of the world by the IUCN in 2012.",
            "tr":"Belin bezelyesi olarak da bilinen Lathyrus belinensis, Fabaceae familyas\u0131n\u0131n Lathyrus cinsinde yer alan \u00e7i\u00e7ekli bir bitki t\u00fcr\u00fcd\u00fcr. T\u00fcr, T\u00fcrkiye'de botanik\u00e7iler Nigel Maxted ve David John Goyder taraf\u0131ndan ke\u015ffedilmi\u015f ve ilk kez 1988 y\u0131l\u0131nda tan\u0131mlanm\u0131\u015ft\u0131r. T\u00fcr, yaln\u0131zca T\u00fcrkiye'nin Antalya ilinde bulunan olduk\u00e7a lokalize bir endemiktir. L. belinensis, 2012 y\u0131l\u0131nda IUCN taraf\u0131ndan d\u00fcnyan\u0131n en fazla tehlike alt\u0131nda olan 100 t\u00fcr\u00fc aras\u0131nda yer ald\u0131."
@@ -412,17 +408,17 @@
      {
         "name":"Lathyrus cilicicus",
         "image":"/assets/nft/NFT_of_the_Lathyrus_cilicicus_a591c92e-2fc7-4dfb-8ce5-ceee80891d84.png",
-        "index":62
+        "index":61
      },
      {
         "name":"Lathyrus layardii",
         "image":"/assets/nft/NFT_of_the_Lathyrus_layardii_0015dd28-0215-46ca-95ae-57cffc82743b.png",
-        "index":63
+        "index":62
      },
      {
         "name":"Lathyrus libani",
         "image":"/assets/nft/NFT_of_the_Lathyrus_libani_0a8e5345-582a-4220-bf41-a604984572e4.png",
-        "index":64,
+        "index":63,
         "description":{
            "en":"Lathyrus libani, the Lebanon vetchling  is a species of wild peas in the legume\u00a0family,\u00a0Fabaceae. It grows in mountainous regions of the Eastern Mediterranean at elevations between 750 metres (2,460\u00a0ft) to 1,650 metres (5,410\u00a0ft).",
            "tr":"Lathyrus libani, L\u00fcbnan fi\u011fleri baklagiller familyas\u0131ndan Fabaceae'ye ait bir yabani bezelye t\u00fcr\u00fcd\u00fcr. Do\u011fu Akdeniz'in da\u011fl\u0131k b\u00f6lgelerinde 750 metre (2.460 ft) ila 1.650 metre (5.410 ft) aras\u0131ndaki y\u00fcksekliklerde yeti\u015fir."
@@ -431,22 +427,22 @@
      {
         "name":"Lathyrus phaselitanus",
         "image":"/assets/nft/NFT_of_the_Lathyrus_phaselitanus_7cdc176a-da9c-442e-922f-74db2e21592d.png",
-        "index":65
+        "index":64
      },
      {
         "name":"Lathyrus tauricola",
         "image":"/assets/nft/NFT_of_the_Lathyrus_tauricola_c8ecce38-c780-4011-bb98-b2d6c4169300.png",
-        "index":66
+        "index":65
      },
      {
         "name":"Lathyrus trachycarpus",
         "image":"/assets/nft/NFT_of_the_Lathyrus_trachycarpus_d22f1e54-36f3-456b-b3c3-9acb3cd1d2e3.png",
-        "index":67
+        "index":66
      },
      {
         "name":"Lathyrus undulatus",
         "image":"/assets/nft/NFT_of_the_Lathyrus_undulatus_e5e7ee20-0be1-4557-9460-5ff459d40799.png",
-        "index":68,
+        "index":67,
         "description":{
            "en":"Lathyrus undulatus, also known as wavy pea, is a flowering plant in the genus Lathyrus, which is in the family Fabaceae. It is native to Turkey, specifically the northwest slopes of Trabzon, Rize, Bolu, Bursa, Sakarya; as well as Crimea, specifically the southern slopes of Nikita Yayla. Its Turkish name is Istanbul Nazendesi.Lathyrus undulatus is a perennial plant, growing to a height of 50\u2013100\u00a0cm (3\u00a0ft 3 in\u20136\u00a0ft 7 in) under suitable living conditions. It lives in temperate climates. In the wild, the flowers are pink and around 1\u20132\u00a0cm long. Its seeds are dark, its flowers bloom in May, and it bears fruits from June to July.",
            "tr":"Dalgal\u0131 bezelye olarak da bilinen Lathyrus undulatus, Fabaceae familyas\u0131nda yer alan Lathyrus cinsine ait \u00e7i\u00e7ekli bir bitkidir. T\u00fcrkiye'ye \u00f6zg\u00fc olup, \u00f6zellikle Trabzon, Rize, Bolu, Bursa, Sakarya'n\u0131n kuzeybat\u0131 yama\u00e7lar\u0131nda; K\u0131r\u0131m'\u0131n yan\u0131 s\u0131ra, \u00f6zellikle Nikita Yayla'n\u0131n g\u00fcney yama\u00e7lar\u0131. T\u00fcrk\u00e7e ad\u0131 \u0130stanbul Nazendesi'dir.Lathyrus undulatus, uygun ya\u015fam ko\u015fullar\u0131 alt\u0131nda 50-100 cm (3 ft 3 in\u00e7 \u2013 6 ft 7 in\u00e7) y\u00fcksekli\u011fe kadar b\u00fcy\u00fcyen \u00e7ok y\u0131ll\u0131k bir bitkidir. Il\u0131man iklimlerde ya\u015far. Vah\u015fi do\u011fada \u00e7i\u00e7ekler pembedir ve yakla\u015f\u0131k 1-2 cm uzunlu\u011fundad\u0131r. Tohumlar\u0131 koyu renktedir, \u00e7i\u00e7ekleri may\u0131s ay\u0131nda a\u00e7ar, haziran ay\u0131ndan temmuz ay\u0131na kadar meyve verir."
@@ -455,12 +451,12 @@
      {
         "name":"Lilium ciliatum",
         "image":"/assets/nft/NFT_of_the_Lilium_ciliatum_3d8e75ea-2c9b-42d7-a390-e588ae4f7321.png",
-        "index":69
+        "index":68
      },
      {
         "name":"Liquidambar orientalis",
         "image":"/assets/nft/NFT_of_the_Liquidambar_orientalis_a4764129-2a78-4ffb-bcb8-f309bf74ab1d.png",
-        "index":70,
+        "index":69,
         "description":{
            "en":"Liquidambar orientalis, commonly known as oriental sweetgum or Turkish sweetgum, is a deciduous tree in the genus Liquidambar, native to the eastern Mediterranean region, that occurs as pure stands mainly in the floodplains of southwestern Turkey and on the Greek island of Rhodes.",
            "tr":"Yayg\u0131n olarak do\u011fu s\u0131\u011flas\u0131 veya T\u00fcrk s\u0131\u011flas\u0131 olarak bilinen Liquidambar orientalis, Do\u011fu Akdeniz b\u00f6lgesine \u00f6zg\u00fc, esas olarak g\u00fcneybat\u0131 T\u00fcrkiye'nin ta\u015fk\u0131n ovalar\u0131nda ve Yunanistan'\u0131n Rodos adas\u0131nda saf me\u015f\u00e7ereler halinde bulunan Liquidambar cinsine ait yaprak d\u00f6ken bir a\u011fa\u00e7t\u0131r."
@@ -469,32 +465,32 @@
      {
         "name":"Lotus armeniacus",
         "image":"/assets/nft/NFT_of_the_Lotus_armeniacus_375b5b07-96a8-4a2e-86cd-55982c6ea877.png",
-        "index":71
+        "index":70
      },
      {
         "name":"Nonea karsensis",
         "image":"/assets/nft/NFT_of_the_Nonea_karsensis_c61a0e98-31fc-4596-8ec0-c6cf4cfa8dae.png",
-        "index":72
+        "index":71
      },
      {
         "name":"Onosma arcuata",
         "image":"/assets/nft/NFT_of_the_Onosma_arcuata_09c3f8cf-ba16-4857-8d9f-da07f5106aa1.png",
-        "index":73
+        "index":72
      },
      {
         "name":"Onosma nigricaulis",
         "image":"/assets/nft/NFT_of_the_Onosma_nigricaulis_38d5cacf-5a47-4664-9705-4cc453b639d1.png",
-        "index":74
+        "index":73
      },
      {
         "name":"Onosma obtusifolia",
         "image":"/assets/nft/NFT_of_the_Onosma_obtusifolia_d93eb2d7-36e7-4c61-b34f-deb90e82b0a1.png",
-        "index":75
+        "index":74
      },
      {
         "name":"Pilularia minuta",
         "image":"/assets/nft/NFT_of_the_Pilularia_minuta_ef0caeae-45cf-4de7-bade-915e2768524d.png",
-        "index":76,
+        "index":75,
         "description":{
            "en":"Pilularia minuta, is a species of fern belonging to the family Marsileaceae.",
            "tr":"Pilularia minuta, Marsileaceae familyas\u0131na ait bir e\u011freltiotu t\u00fcr\u00fcd\u00fcr."
@@ -503,32 +499,32 @@
      {
         "name":"Psephellus appendicigerus",
         "image":"/assets/nft/NFT_of_the_Psephellus_appendicigerus_plant_dad95acd-7c9c-4c58-b9f5-37461f070106.png",
-        "index":77
+        "index":76
      },
      {
         "name":"Psephellus gracillimus",
         "image":"/assets/nft/NFT_of_the_Psephellus_gracillimus_plant_d8305483-fdc6-409f-a679-4bef8c3d99e4.png",
-        "index":78
+        "index":77
      },
      {
         "name":"Psephellus pecho",
         "image":"/assets/nft/NFT_of_the_Psephellus_pecho_plant_0fe5eac3-fcfc-4635-9f6a-0fcf8627461d.png",
-        "index":79
+        "index":78
      },
      {
         "name":"Psephellus straminicephalus",
         "image":"/assets/nft/NFT_of_the_Psephellus_straminicephalus_plant_cdd19705-214d-4e63-88e0-31292023ecbe.png",
-        "index":80
+        "index":79
      },
      {
         "name":"Psephellus taochius",
         "image":"/assets/nft/NFT_of_the_Psephellus_taochius_plant_570b7870-be04-41a5-80fa-927404bd2958.png",
-        "index":81
+        "index":80
      },
      {
         "name":"Quercus pontica",
         "image":"/assets/nft/NFT_of_the_Quercus_pontica_748e4285-230e-4f0f-92fb-382b61eae66e.png",
-        "index":82,
+        "index":81,
         "description":{
            "en":"Quercus pontica, the Pontine oak or Armenian oak, is a species of endangered oak currently extant to the western Caucasus mountains of Georgia and northeastern Turkey where it grows at altitudes of 1,300\u20132,100 metres (4,300\u20136,900 feet).",
            "tr":"Quercus pontica, Pontine me\u015fesi veya Ermeni me\u015fesi, \u015fu anda G\u00fcrcistan'\u0131n Bat\u0131 Kafkasya da\u011flar\u0131nda ve T\u00fcrkiye'nin kuzeydo\u011fusunda mevcut olan ve 1.300-2.100 metre (4.300-6.900 feet) rak\u0131mlarda yeti\u015fen nesli t\u00fckenmekte olan bir me\u015fe t\u00fcr\u00fcd\u00fcr."
@@ -537,22 +533,22 @@
      {
         "name":"Ranunculus tempskyanus",
         "image":"/assets/nft/NFT_of_the_Ranunculus_tempskyanus_dbc09882-e04a-438d-a4a7-8514d67a3a6d.png",
-        "index":83
+        "index":82
      },
      {
         "name":"Ranunculus vermirrhizus",
         "image":"/assets/nft/NFT_of_the_Ranunculus_vermirrhizus_85bd8971-1e12-4c1c-adc6-e44369aa5fbb.png",
-        "index":84
+        "index":83
      },
      {
         "name":"Reseda balansae",
         "image":"/assets/nft/NFT_of_the_Reseda_balansae_15aaa500-479c-4902-8ef2-f9d8a89a8579.png",
-        "index":85
+        "index":84
      },
      {
         "name":"Rhodothamnus sessilifolius",
         "image":"/assets/nft/NFT_of_the_Rhodothamnus_sessilifolius_pink_flower_bc862a8b-6051-4ba5-8570-6cdb4e2d47a5.png",
-        "index":86,
+        "index":85,
         "description":{
            "en":"Rhodothamnus sessilifolius, commonly known as the sessile-leaved rhodothamnus, is a flowering plant in the family Ericaceaea. It is endemic to Turkey.It is classified as critically endangered by the International Union for Conservation of Nature.",
            "tr":"Yayg\u0131n olarak saps\u0131z yaprakl\u0131 rhodothamnus olarak bilinen Rhodothamnus sessilifolius, Ericaceaea familyas\u0131ndan \u00e7i\u00e7ekli bir bitkidir. T\u00fcrkiye'ye endemiktir.Uluslararas\u0131 Do\u011fay\u0131 Koruma Birli\u011fi taraf\u0131ndan kritik tehlike alt\u0131nda olarak s\u0131n\u0131fland\u0131r\u0131lm\u0131\u015ft\u0131r."
@@ -561,122 +557,122 @@
      {
         "name":"Rumex bithynicus",
         "image":"/assets/nft/NFT_of_the_Rumex_bithynicus_b0097d3c-9323-4bb9-b00e-78ec6a629ebc.png",
-        "index":87
+        "index":86
      },
      {
         "name":"Saxifraga artvinensis",
         "image":"/assets/nft/NFT_of_the_Saxifraga_artvinensis_17f1f9d0-ecf7-4809-b35d-7c10adddd64a.png",
-        "index":88
+        "index":87
      },
      {
         "name":"Scrophularia capillaris",
         "image":"/assets/nft/NFT_of_the_Scrophularia_capillaris_3465c938-b3c3-4382-91cd-2b8341df68a3.png",
-        "index":89
+        "index":88
      },
      {
         "name":"Scutellaria yildirimlii",
         "image":"/assets/nft/NFT_of_the_Scutellaria_yildirimlii_16858c0d-d2fc-4f50-aca6-255692b6ee65.png",
-        "index":90
+        "index":89
      },
      {
         "name":"Sedum euxinum",
         "image":"/assets/nft/NFT_of_the_Sedum_euxinum_530153cb-0309-4143-a82d-43ff83c90924.png",
-        "index":91
+        "index":90
      },
      {
         "name":"Sideritis gulendamii",
         "image":"/assets/nft/NFT_of_the_Sideritis_gulendamii_ab962921-073b-4e09-9c27-937233c8e8c2.png",
-        "index":92
+        "index":91
      },
      {
         "name":"Silene ispirensis",
         "image":"/assets/nft/NFT_of_the_Silene_ispirensis_1334a855-7833-4a32-9479-d297b96332c3.png",
-        "index":93
+        "index":92
      },
      {
         "name":"Sonchus erzincanicus",
         "image":"/assets/nft/NFT_of_the_Sonchus_erzincanicus_4311b51f-355e-4782-828d-d0cef2348f69.png",
-        "index":94
+        "index":93
      },
      {
         "name":"Sorbus roopiana",
         "image":"/assets/nft/NFT_of_the_Sorbus_roopiana_e336b66c-cc34-48e1-bb3b-7d9a9839eb96.png",
-        "index":95
+        "index":94
      },
      {
         "name":"Stachys bayburtensis",
         "image":"/assets/nft/NFT_of_the_Stachys_bayburtensis_2d2bb44e-434e-4141-a64f-532331c99a7d.png",
-        "index":96
+        "index":95
      },
      {
         "name":"Stachys choruhensis",
         "image":"/assets/nft/NFT_of_the_Stachys_choruhensis_e1d777d9-a8c3-44d0-9351-7f7501d4c8dc.png",
-        "index":97
+        "index":96
      },
      {
         "name":"Stachys sosnowskyi",
         "image":"/assets/nft/NFT_of_the_Stachys_sosnowskyi_13138306-be2e-489b-a528-ec385f9b718d.png",
-        "index":98
+        "index":97
      },
      {
         "name":"Symphytum savvalense",
         "image":"/assets/nft/NFT_of_the_Symphytum_savvalense_4baa2f58-0ab6-4faf-a330-069cc134353e.png",
-        "index":99
+        "index":98
      },
      {
         "name":"Tanacetum oxystegium",
         "image":"/assets/nft/NFT_of_the_Tanacetum_oxystegium_6879daa6-9202-4260-9321-c5c1cc135c17.png",
-        "index":100
+        "index":99
      },
      {
         "name":"Thermopsis turcica",
         "image":"/assets/nft/NFT_of_the_Thermopsis_turcica_orange_flower_d7871359-84b3-49b2-b5db-219937e45d34.png",
-        "index":101
+        "index":100
      },
      {
         "name":"Tripleurospermum fissuraledaisy",
         "image":"/assets/nft/NFT_of_the_Tripleurospermum_fissuraledaisy_765bcfba-5fe7-41e6-a01c-f7302a5a8dd0.png",
-        "index":102
+        "index":101
      },
      {
         "name":"Tulipa gumusanica",
         "image":"/assets/nft/NFT_of_the_Tulipa_gumusanica_d198c50c-0b6e-4850-af09-880ed044092f.png",
-        "index":103
+        "index":102
      },
      {
         "name":"Verbascum decursivum",
         "image":"/assets/nft/NFT_of_the_Verbascum_decursivum_22c9e409-2a27-46fa-bb2a-8658f26d0881.png",
-        "index":104
+        "index":103
      },
      {
         "name":"Verbascum transcaucasicum",
         "image":"/assets/nft/NFT_of_the_Verbascum_transcaucasicum_7a8a9639-f443-4895-a636-d7baf5993b01.png",
-        "index":105
+        "index":104
      },
      {
         "name":"Veronica allahuekberensis",
         "image":"/assets/nft/NFT_of_the_Veronica_allahuekberensis_847adb8d-5cb8-48ff-a988-863c922a59a5.png",
-        "index":106
+        "index":105
      },
      {
         "name":"Vicia eristalioides",
         "image":"/assets/nft/NFT_of_the_Vicia_eristalioides_f0df30bc-5415-4fb7-8647-a71199512f7e.png",
-        "index":107
+        "index":106
      },
      {
         "name":"Vicia erzurumica",
         "image":"/assets/nft/NFT_of_the_Vicia_erzurumica_57de9de4-5925-4552-8488-57365c667f7a.png",
-        "index":108
+        "index":107
      },
      {
         "name":"Vicia incisa",
         "image":"/assets/nft/NFT_of_the_Vicia_incisa_a4711af3-9876-4fc8-b2b3-cc0d82f1a871.png",
-        "index":109
+        "index":108
      },
      {
         "name":"Vicia quadrijuga",
         "image":"/assets/nft/NFT_of_the_Vicia_quadrijuga_243d1b8e-83e9-4b9f-bfaa-f14d7c9c8608.png",
-        "index":110
+        "index":109
      }
   ]
 }

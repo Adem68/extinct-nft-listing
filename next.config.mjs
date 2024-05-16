@@ -5,7 +5,7 @@ const nextConfig = {
     domains: [
       'picsum.photos',
       'cdn.midjourney.com',
-      'cdn.dsmcdn.com'
+      'ipfs.io'
     ],
   },
 }
