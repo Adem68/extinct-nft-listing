@@ -86,10 +86,12 @@ export default function Listing() {
             <DialogTitle className="text-2xl font-semibold">
               {selectedItem?.name}
             </DialogTitle>
-            <DialogDescription className="text-sm font-semibold">
-              {selectedItem?.description?.en} <br /> <br />{" "}
-              {selectedItem?.description?.tr}
-            </DialogDescription>
+            {selectedItem?.description && (
+              <CardDescription className="text-sm font-semibold">
+                {selectedItem?.description?.en} <br /> <br />{" "}
+                {selectedItem?.description?.tr}
+              </CardDescription>
+            )}
           </DialogHeader>
           <DialogTitle>
             <Button
@@ -100,7 +102,11 @@ export default function Listing() {
                 href={selectedItem?.opensea_url}
                 target="_blank"
                 rel="noreferrer"
-                style={{ width: "100%", height: "48px", alignContent: "center" }}
+                style={{
+                  width: "100%",
+                  height: "48px",
+                  alignContent: "center",
+                }}
               >
                 OpenSea
               </a>
