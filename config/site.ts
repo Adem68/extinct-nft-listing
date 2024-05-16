@@ -1,7 +1,7 @@
 export type SiteConfig = typeof siteConfig
 
 export const siteConfig = {
-  name: "Extinct NFTs",
+  name: "Extinct Plants NFT",
   description:
     "This project was designed to create an NFT of Extinct and Endangered Plants",
   mainNav: [
