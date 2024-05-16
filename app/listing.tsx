@@ -95,9 +95,6 @@ export default function Listing() {
             <Button
               style={{ width: "100%", height: "48px", alignContent: "center" }}
               className="rounded-lg bg-blue-800 hover:bg-blue-500 dark:text-white dark:hover:bg-blue-200 dark:hover:text-black"
-              onClick={() => {
-                window.open(selectedItem?.opensea_url)
-              }}
             >
               <a
                 href={selectedItem?.opensea_url}
